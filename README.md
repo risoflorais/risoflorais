@@ -27,7 +27,7 @@ Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 20
 ---
 
 
-<div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=radical&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=radical&count_private=true" />
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
